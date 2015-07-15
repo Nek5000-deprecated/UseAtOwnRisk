@@ -5,4 +5,4 @@ Each directory contains its own README explaining what it does and how to use it
 
 
 ## List of snippets
- - "Sippet Name" by Author Name: what it does
+ - "Snippet Name" by Author Name: what it does
